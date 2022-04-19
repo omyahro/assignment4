@@ -1,0 +1,29 @@
+body{
+    background-color: #040722;
+}
+div{
+    font-style: normal;
+    color: #394e51;
+}
+h5{
+    color: #fce5cd;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #a08364;
+}
+label{
+    color: #a32475;
+}
+input{
+    color: #3643b4 ;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+    color: #fce5cd;
+    text-shadow: 2px 2px 4px #91704c;
+}
+.order{
+    background-color:#efa9ae ;
+}
